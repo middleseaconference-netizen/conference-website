@@ -1,0 +1,76 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conference Name 2026</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Conference Name 2026</h1>
+    <p>University of Cyprus · Nicosia · 15–17 May 2026</p>
+    <a href="#registration" class="button">Register Now</a>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#cfp">Call for Papers</a>
+    <a href="#programme">Programme</a>
+    <a href="#venue">Venue</a>
+    <a href="#registration">Registration</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>About the Conference</h2>
+      <p>
+        This conference brings together researchers working on language,
+        linguistics, and related fields. The event will include keynote talks,
+        paper presentations, and discussion sessions.
+      </p>
+    </section>
+
+    <section id="cfp">
+      <h2>Call for Papers</h2>
+      <p>
+        We invite submissions on topics related to theoretical linguistics,
+        language documentation, syntax, semantics, morphology, and language contact.
+      </p>
+      <p><strong>Submission deadline:</strong> 15 February 2026</p>
+      <p><strong>Notification of acceptance:</strong> 15 March 2026</p>
+    </section>
+
+    <section id="programme">
+      <h2>Programme</h2>
+      <p>The full programme will be announced soon.</p>
+    </section>
+
+    <section id="venue">
+      <h2>Venue</h2>
+      <p>University of Cyprus, Nicosia, Cyprus.</p>
+    </section>
+
+    <section id="registration">
+      <h2>Registration</h2>
+      <p>
+        Registration details will be posted here. Please check this page regularly
+        for updates.
+      </p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: conference@example.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Conference Name. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
