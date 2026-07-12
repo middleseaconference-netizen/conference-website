@@ -1,76 +1,63 @@
-index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Conference Name 2026</title>
+  <title>Middle Sea Conference 2027</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <header>
-    <h1>Our Great Middle Sea 2027</h1>
-    <p>University of Cyprus · Nicosia · 15–17 May 2026</p>
-    <a href="#registration" class="button">Register Now</a>
-  </header>
+  <div class="page">
 
-  <nav>
-    <a href="#about">About</a>
-    <a href="#cfp">Call for Papers</a>
-    <a href="#programme">Programme</a>
-    <a href="#venue">Venue</a>
-    <a href="#registration">Registration</a>
-    <a href="#contact">Contact</a>
-  </nav>
+    <header>
+      <img src="banner.jpg" alt="Conference banner" class="banner">
 
-  <main>
-    <section id="about">
-      <h2>About the Conference</h2>
-      <p>
-        This conference brings together researchers working on language,
-        linguistics, and related fields. The event will include keynote talks,
-        paper presentations, and discussion sessions.
-      </p>
-    </section>
+      <h1>Middle Sea Conference 2027</h1>
+      <p class="date">University of Cyprus · Nicosia · 2027</p>
 
-    <section id="cfp">
+      <nav>
+        <a href="index.html" class="active">Call for Papers</a>
+        <a href="registration.html">Registration</a>
+        <a href="local.html">Local Information</a>
+      </nav>
+    </header>
+
+    <main>
       <h2>Call for Papers</h2>
+
       <p>
-        We invite submissions on topics related to theoretical linguistics,
-        language documentation, syntax, semantics, morphology, and language contact.
+        We invite submissions for the Middle Sea Conference 2027, to be held at
+        the University of Cyprus in Nicosia.
       </p>
-      <p><strong>Submission deadline:</strong> 15 February 2026</p>
-      <p><strong>Notification of acceptance:</strong> 15 March 2026</p>
-    </section>
 
-    <section id="programme">
-      <h2>Programme</h2>
-      <p>The full programme will be announced soon.</p>
-    </section>
-
-    <section id="venue">
-      <h2>Venue</h2>
-      <p>University of Cyprus, Nicosia, Cyprus.</p>
-    </section>
-
-    <section id="registration">
-      <h2>Registration</h2>
       <p>
-        Registration details will be posted here. Please check this page regularly
-        for updates.
+        The conference welcomes papers on language, linguistics, language contact,
+        multilingualism, historical linguistics, syntax, semantics, morphology,
+        corpus linguistics, and related areas.
       </p>
-    </section>
 
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>Email: conference@example.com</p>
-    </section>
-  </main>
+      <h3>Important dates</h3>
 
-  <footer>
-    <p>&copy; 2026 Conference Name. All rights reserved.</p>
-  </footer>
+      <ul>
+        <li><strong>Submission deadline:</strong> To be announced</li>
+        <li><strong>Notification of acceptance:</strong> To be announced</li>
+        <li><strong>Conference dates:</strong> To be announced</li>
+      </ul>
+
+      <h3>Submission guidelines</h3>
+
+      <p>
+        Abstracts should be anonymous and should not exceed 500 words, excluding
+        references. More details will be added soon.
+      </p>
+    </main>
+
+    <footer>
+      <p>&copy; 2027 Middle Sea Conference Organizers</p>
+    </footer>
+
+  </div>
 
 </body>
 </html>
